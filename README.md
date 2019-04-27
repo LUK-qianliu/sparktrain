@@ -8,7 +8,7 @@
 3.sparkstreaming处理数据流
 4.保存数据到hbase
 
-还有一个springboot+echarts可视化是后半部分的项目。
+还有一个springboot+echarts可视化是后半部分的项目，仓库在https://github.com/LUK-qianliu/springboot1。
 
 整个项目详情请见博客：
 https://blog.csdn.net/qq_35688140/article/details/88089936 
